@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,php&perline=5)](https://skillicons.dev)
 
+##
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominicS97&layout=compact)
