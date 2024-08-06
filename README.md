@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,php&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=5)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=php&perline=5)](https://skillicons.dev)
 
 ##
 
