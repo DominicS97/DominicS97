@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=php&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel&perline=5)](https://skillicons.dev)
 
 ##
 
