@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass&perline=5)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react&perline=5)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel&perline=5)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet&perline=5)](https://skillicons.dev)
 
 ##
 
