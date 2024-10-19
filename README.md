@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,git&perline=5)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass&perline=5)](https://skillicons.dev)
 
